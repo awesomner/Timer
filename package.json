@@ -10,7 +10,7 @@
   "author": "Tomas",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.15.3",
+    "axios": "^0.21.1",
     "express": "^4.14.0",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
